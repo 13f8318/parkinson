@@ -1,1 +1,1 @@
-web: gunicorn parkinson.wsgi --log-file -
+web: gunicorn TaskAPI.wsgi --log-file -
