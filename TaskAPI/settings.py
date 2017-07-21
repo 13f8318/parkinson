@@ -25,7 +25,7 @@ SECRET_KEY = 'x^ik5*rihkmfzk0u*l(vnwgv+be7(zv-+ulhkmbt!^2tpz2oih'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['rocky-peak-61827.herokuapp.com',]
 
 
 # Application definition
